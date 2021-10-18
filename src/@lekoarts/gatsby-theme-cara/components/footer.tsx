@@ -31,9 +31,9 @@ const Footer = () => {
         }}
       >
         {isDark ? (
-          <img width="30" height="30" src="https://i.imgur.com/BFPphvC.png" alt="LekoArts Logo" />
+          <img width="30" height="50" src="https://i.imgur.com/BFPphvC.png" alt="LekoArts Logo" />
         ) : (
-          <img width="30" height="30" src="https://i.imgur.com/BFPphvC.png" alt="LekoArts Logo" />
+          <img width="30" height="50" src="https://i.imgur.com/BFPphvC.png" alt="LekoArts Logo" />
         )}
         {` `}
         <Link
