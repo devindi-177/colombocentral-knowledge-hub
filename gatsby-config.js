@@ -35,12 +35,12 @@ module.exports = {
         icons: [
           {
             src: `/img1.png`,
-            sizes: `192x192`,
+            sizes: `192x384`,
             type: `image/png`,
           },
           {
             src: `/img1.png`,
-            sizes: `512x512`,
+            sizes: `512x1024`,
             type: `image/png`,
           },
         ],
