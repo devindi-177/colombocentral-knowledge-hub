@@ -25,9 +25,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `AIESEC in Colombo Central Knowledge Hub`,
+        short_name: `CC Knowledge Hub`,
+        description: `This Knowledge Hub serves the membership of AIESEC in Colombo Central to improve their knowledge and understanding about our procedures and operations.`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
